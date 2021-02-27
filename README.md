@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ajeet
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning "React"
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning "React" and "DSA"
+- 💞️ I’m looking to collaborate on "front end projects"
 - 📫 How to reach me @imajeet5
 
 <!---
